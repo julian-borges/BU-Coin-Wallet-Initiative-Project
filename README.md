@@ -1,7 +1,7 @@
 # BU Coin – A Boston University-Native Digital Currency
 
-**Project Lead**: Julian Borges  
-**Co-Author / Advisor**: Wesley Chen  
+**Principal Investigator: Julian Borges jyborges@bu.edu 
+**Co-Investigator/Advisor: Wesley Chen wesjchen@bu.edu 
 **Institution**: Boston University – Metropolitan College  
 **Course**: CS682S C1 – Information Systems Analysis and Design  
 **Term**: Summer 2025  
@@ -36,8 +36,22 @@ BU Coin is not just a payment tool—it's a strategic platform for delivering se
 - **Compliance Layer**: HIPAA / FERPA / GDPR aligned; legal audit included
 
 ---
+### Creative Commons Attribution-NonCommercial 4.0 International (CC BY-NC 4.0)
 
-## Repository Structure
+This project and all included documents are licensed under the Creative Commons Attribution-NonCommercial 4.0 International License.
+
+You are free to:
+- Share — copy and redistribute the material in any medium or format
+- Adapt — remix, transform, and build upon the material
+
+Under the following terms:
+- Attribution — You must give appropriate credit, provide a link to the license, and indicate if changes were made.
+- NonCommercial — You may not use the material for commercial purposes.
+
+Full license text: https://creativecommons.org/licenses/by-nc/4.0/
+
+---
+#### Repository Structure
 
 ```plaintext
 bu-coin-pilot/
@@ -47,3 +61,4 @@ bu-coin-pilot/
 ├── /contracts/              # Smart contracts (e.g., BUcoin.sol)
 ├── /scripts/                # Demo scripts for wallets and transaction flows
 └── README.md                # This file
+'''
