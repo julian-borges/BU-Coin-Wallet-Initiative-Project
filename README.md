@@ -1,2 +1,49 @@
-# BU-Coin-Wallet-Initiative-Project
-A pilot project to design and implement a blockchain-based digital currency (BU Coin) for Boston University, aimed at streamlining campus payments, reducing fees, and enhancing student engagement.
+# BU Coin – A Boston University-Native Digital Currency
+
+**Project Lead**: Julian Borges  
+**Co-Author / Advisor**: Wesley Chen  
+**Institution**: Boston University – Metropolitan College  
+**Course**: CS682S C1 – Information Systems Analysis and Design  
+**Term**: Summer 2025  
+**Instructor**: Professor Angelo Guadagno
+
+---
+
+## Project Overview
+
+**BU Coin** is a pilot initiative to design and implement a **university-native, blockchain-powered digital currency** for Boston University. This project proposes a decentralized token system that enhances payment accessibility, reduces administrative costs, and gamifies student engagement.
+
+BU Coin is not just a payment tool—it's a strategic platform for delivering seamless, low-cost, transparent, and programmable transactions across campus services including tuition, dining, laundry, events, and more.
+
+---
+
+## Goals
+
+- **Eliminate high transaction fees** from credit cards and wire transfers
+- **Streamline cross-border payments** for international students
+- **Create a unified campus wallet experience**
+- **Gamify student life** through token-based incentives
+- **Enhance financial transparency and automation** via smart contracts
+
+---
+
+## System Architecture (Planned)
+
+- **Stablecoin Design**: BU Coin pegged 1:1 to USD
+- **Wallet Interface**: Mobile-ready, QR-enabled, linked to student ID
+- **Smart Contracts**: Tuition refunds, loyalty rewards, service restrictions
+- **Integrations**: Dining services, bookstore, event ticketing, printing
+- **Compliance Layer**: HIPAA / FERPA / GDPR aligned; legal audit included
+
+---
+
+## Repository Structure
+
+```plaintext
+bu-coin-pilot/
+│
+├── /docs/                   # Project proposal, budget, stakeholder plans
+├── /design/                 # Diagrams and architecture blueprints
+├── /contracts/              # Smart contracts (e.g., BUcoin.sol)
+├── /scripts/                # Demo scripts for wallets and transaction flows
+└── README.md                # This file
