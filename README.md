@@ -1,7 +1,7 @@
 # BU Coin – A Boston University-Native Digital Currency
 
-**Principal Investigator: Julian Borges jyborges@bu.edu 
-**Co-Investigator/Advisor: Wesley Chen wesjchen@bu.edu 
+**Principal Investigator: Julian Borges - jyborges@bu.edu
+**Co-Investigator/Advisor: Wesley Chen - wesjchen@bu.edu
 **Institution**: Boston University – Metropolitan College  
 **Course**: CS682S C1 – Information Systems Analysis and Design  
 **Term**: Summer 2025  
