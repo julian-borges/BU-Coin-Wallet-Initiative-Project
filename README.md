@@ -49,7 +49,7 @@ This project is intended for internal academic use and research purposes only. N
 **License**: Proprietary – Internal Research Use Only  
 
 For permissions, contact:
-- julian.borges@bu.edu
+- jyborges@bu.edu
 - wesley.chen@bu.edu
 
 ---
