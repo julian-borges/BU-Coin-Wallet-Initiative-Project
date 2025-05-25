@@ -38,19 +38,19 @@ BU Coin is not just a payment tool—it's a strategic platform for delivering se
 - **Compliance Layer**: HIPAA / FERPA / GDPR aligned; legal audit included
 
 ---
-### Creative Commons Attribution-NonCommercial 4.0 International (CC BY-NC 4.0)
+### Copyright © 2025 Julian Borges and Wesley Chen. All rights reserved.
 
-This project and all included documents are licensed under the Creative Commons Attribution-NonCommercial 4.0 International License.
+This repository contains proprietary information and materials developed as part of the BU Coin initiative at Boston University – Metropolitan College.
 
-You are free to:
-- Share — copy and redistribute the material in any medium or format
-- Adapt — remix, transform, and build upon the material
+Unauthorized copying, distribution, modification, or use of this content is strictly prohibited without express written permission from the authors.
 
-Under the following terms:
-- Attribution — You must give appropriate credit, provide a link to the license, and indicate if changes were made.
-- NonCommercial — You may not use the material for commercial purposes.
+This project is intended for internal academic use and research purposes only. No part of this project may be used for commercial or public deployment without explicit authorization.
 
-Full license text: https://creativecommons.org/licenses/by-nc/4.0/
+**License**: Proprietary – Internal Research Use Only  
+
+For permissions, contact:
+- julian.borges@bu.edu
+- wesley.chen@bu.edu
 
 ---
 #### Repository Structure
